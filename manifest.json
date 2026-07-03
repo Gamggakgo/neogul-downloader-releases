@@ -1,6 +1,6 @@
 {
-  "latest_version": "0.6.0",
-  "download_url": "https://github.com/Gamggakgo/neogul-downloader-releases/releases/download/v0.6.0/NeogulDownloader.exe",
-  "notes": "자동 업데이트와 수강생 코드 기능이 추가된 첫 버전이에요. 상단 새 버전 받기 버튼으로 다음부터는 자동으로 업데이트할 수 있어요.",
-  "access_sha256": "f544bbe399c5ea3f2f25684b8802a9830153baa13cbc7bf2ebb2e4255e1b43db"
+    "latest_version":  "0.6.0",
+    "download_url":  "https://github.com/Gamggakgo/neogul-downloader-releases/releases/download/v0.6.0/NeogulDownloader.exe",
+    "notes":  "자동 업데이트와 수강생 코드 기능이 추가된 첫 버전이에요. 상단 새 버전 받기 버튼으로 다음부터는 자동으로 업데이트할 수 있어요.",
+    "access_sha256":  "85e796566be415c36bbcf9d516b4566eabe84fb420f7a39af9fc1c776c561eab"
 }
