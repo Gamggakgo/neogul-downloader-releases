@@ -1,6 +1,6 @@
 {
-    "latest_version": "0.7.2",
-    "download_url": "https://github.com/Gamggakgo/neogul-downloader-releases/releases/download/v0.7.2/NeogulDownloader.exe",
-    "notes": "맥(macOS) 버전을 추가했어요. 릴리스에서 본인 맥에 맞는 DMG(Apple Silicon/Intel)를 받으세요. 맥은 '새 버전 받기'가 다운로드 페이지를 열어줍니다. 윈도우는 기존처럼 자동 업데이트됩니다.",
+    "latest_version": "0.11.0",
+    "download_url": "https://github.com/Gamggakgo/neogul-downloader-releases/releases/download/v0.11.0/NeogulDownloader.exe",
+    "notes": "너굴의 쇼츠 공방으로 새 단장! 🦝 자막·워터마크 지우개(AI 자동 감지)가 추가됐어요. 파일이 커져서 다운로드가 조금 걸려요.",
     "access_sha256": "f544bbe399c5ea3f2f25684b8802a9830153baa13cbc7bf2ebb2e4255e1b43db"
 }
