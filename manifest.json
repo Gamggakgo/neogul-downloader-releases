@@ -1,6 +1,6 @@
 {
-    "latest_version": "0.12.1",
-    "download_url": "https://github.com/Gamggakgo/neogul-downloader-releases/releases/download/v0.12.1/NeogulDownloader.exe",
-    "notes": "0.12.0에서 다운로드가 안 되던 문제를 고쳤어요. 지금 바로 업데이트해 주세요! 🚑",
+    "latest_version": "0.13.0",
+    "download_url": "https://github.com/Gamggakgo/neogul-downloader-releases/releases/download/v0.13.0/NeogulDownloader.exe",
+    "notes": "새 기능: 소스 보관함 📦 받은 영상 링크가 제품 태그와 함께 자동 기록되고, 엑셀로도 뽑을 수 있어요!",
     "access_sha256": "f544bbe399c5ea3f2f25684b8802a9830153baa13cbc7bf2ebb2e4255e1b43db"
 }
