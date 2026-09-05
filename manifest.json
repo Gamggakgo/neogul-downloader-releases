@@ -1,7 +1,7 @@
 {
-    "latest_version": "0.16.0",
+    "latest_version": "0.16.1",
     "min_version": "0.12.1",
-    "download_url": "https://github.com/Gamggakgo/neogul-downloader-releases/releases/download/v0.16.0/NeogulDownloader.exe",
-    "notes": "쓰레드 다운로드가 3중 안전망으로 튼튼해졌어요 🧵 한 경로가 막혀도 자동으로 넘어갑니다!",
+    "download_url": "https://github.com/Gamggakgo/neogul-downloader-releases/releases/download/v0.16.1/NeogulDownloader.exe",
+    "notes": "자막 지우개 마무리 품질 개선 — 얼룩·실물 오삭제 문제를 고쳤어요 🧽✨",
     "access_sha256": "f544bbe399c5ea3f2f25684b8802a9830153baa13cbc7bf2ebb2e4255e1b43db"
 }
